@@ -4,3 +4,4 @@
 [submodule "esp_hosted_ng/esp/esp_driver/esp-idf"]
 	path = esp_hosted_ng/esp/esp_driver/esp-idf
 	url = https://github.com/jcmvbkbc/esp-idf.git
+	branch = wifi-4.4
